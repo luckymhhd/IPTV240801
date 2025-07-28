@@ -15732,6 +15732,9 @@
 	<programme channel="咪咕综合体育" start="20250729000000 +0800" stop="20250729025000 +0800">
 		<title lang="zh">UFConABC8期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250729025000 +0800" stop="20250729035000 +0800">
+		<title lang="zh">纪录片曼联：为了荣誉</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -36045,6 +36048,9 @@
 	<programme channel="纯享4K" start="20250729021200 +0800" stop="20250729025200 +0800">
 		<title lang="zh">探索b7发现4K 明初父子将军墓（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250729025200 +0800" stop="20250729034100 +0800">
+		<title lang="zh">大运河之歌4K 第5集 融通天下</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45459,6 +45465,9 @@
 	<programme channel="newtv古装剧场" start="20250729011700 +0800" stop="20250729023100 +0800">
 		<title lang="zh">50_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250729023100 +0800" stop="20250729034800 +0800">
+		<title lang="zh">51_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45480,6 +45489,9 @@
 	<programme channel="newtv家庭剧场" start="20250729013100 +0800" stop="20250729024700 +0800">
 		<title lang="zh">15_我的后半生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250729024700 +0800" stop="20250729033200 +0800">
+		<title lang="zh">16_我的后半生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45494,6 +45506,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250729005200 +0800" stop="20250729025700 +0800">
 		<title lang="zh">爸爸是外星人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250729025700 +0800" stop="20250729040100 +0800">
+		<title lang="zh">30_乔家的儿女</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -45516,6 +45531,9 @@
 	<programme channel="newtv怡伴健康" start="20250729013300 +0800" stop="20250729024900 +0800">
 		<title lang="zh">37_长歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250729024900 +0800" stop="20250729033700 +0800">
+		<title lang="zh">胖海豹的秘密</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45537,6 +45555,9 @@
 	<programme channel="newtv军事评论" start="20250729020100 +0800" stop="20250729025500 +0800">
 		<title lang="zh">杨巍：导弹老兵的汉服人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250729025500 +0800" stop="20250729034900 +0800">
+		<title lang="zh">海州湾里守岛人</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45548,6 +45569,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250729022500 +0800" stop="20250729023700 +0800">
 		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250729023700 +0800" stop="20250729025100 +0800">
+		<title lang="zh">别知己-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250729025100 +0800" stop="20250729030400 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
