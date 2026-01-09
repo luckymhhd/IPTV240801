@@ -24700,6 +24700,9 @@
 	<programme channel="咪咕综合体育" start="20260109222500 +0800" stop="20260109223000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260109223000 +0800" stop="20260109000000 +0800">
+		<title lang="zh">UFC第322期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -36442,6 +36445,12 @@
 	<programme channel="惊悚悬疑" start="20260109214900 +0800" stop="20260109223000 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20260109223000 +0800" stop="20260109230500 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20260109230500 +0800" stop="20260109003600 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -39252,6 +39261,9 @@
 	</programme>
 	<programme channel="明星大片" start="20260109214500 +0800" stop="20260109222900 +0800">
 		<title lang="zh">16_余生有涯</title>
+	</programme>
+	<programme channel="明星大片" start="20260109222900 +0800" stop="20260109231900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -56566,6 +56578,12 @@
 	<programme channel="爱情喜剧" start="20260109214500 +0800" stop="20260109222600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20260109222600 +0800" stop="20260109231200 +0800">
+		<title lang="zh">16_长相思 第二季</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20260109231200 +0800" stop="20260109000200 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -62431,6 +62449,9 @@
 	<programme channel="纯享4K" start="20260109214300 +0800" stop="20260109223700 +0800">
 		<title lang="zh">遇鉴文明4K 匠心天工 中国家具与西方家具</title>
 	</programme>
+	<programme channel="纯享4K" start="20260109223700 +0800" stop="20260109232500 +0800">
+		<title lang="zh">传承 第二季4K 第二集 绝技</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -67212,6 +67233,9 @@
 	</programme>
 	<programme channel="超级电影" start="20260109215300 +0800" stop="20260109231200 +0800">
 		<title lang="zh">枪神赵子龙</title>
+	</programme>
+	<programme channel="超级电影" start="20260109231200 +0800" stop="20260109003100 +0800">
+		<title lang="zh">沙鹰行动</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -78193,6 +78217,9 @@
 	<programme channel="黑莓电影" start="20260109204100 +0800" stop="20260109224100 +0800">
 		<title lang="zh">绣春刀b7修罗战场</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260109224100 +0800" stop="20260109003700 +0800">
+		<title lang="zh">制暴：无限杀机</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79054,6 +79081,9 @@
 	<programme channel="newtv超级综艺" start="20260109221200 +0800" stop="20260109225900 +0800">
 		<title lang="zh">05_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260109225900 +0800" stop="20260109234600 +0800">
+		<title lang="zh">06_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79120,6 +79150,9 @@
 	<programme channel="newtv超级体育" start="20260109214500 +0800" stop="20260109225000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260109225000 +0800" stop="20260109235000 +0800">
+		<title lang="zh">实况录像-2025年世乒联总决赛 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79167,6 +79200,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260109215300 +0800" stop="20260109231200 +0800">
 		<title lang="zh">枪神赵子龙</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260109231200 +0800" stop="20260109003100 +0800">
+		<title lang="zh">沙鹰行动</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -79263,6 +79299,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260109215600 +0800" stop="20260109224200 +0800">
 		<title lang="zh">25_烟火人家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260109224200 +0800" stop="20260109232700 +0800">
+		<title lang="zh">26_烟火人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79363,6 +79402,9 @@
 	<programme channel="newtv精品大剧" start="20260109221300 +0800" stop="20260109230300 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260109230300 +0800" stop="20260109235300 +0800">
+		<title lang="zh">04_无尽的尽头</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79459,6 +79501,9 @@
 	<programme channel="newtv精品纪录" start="20260109214900 +0800" stop="20260109223400 +0800">
 		<title lang="zh">05_断箭</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260109223400 +0800" stop="20260109232500 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79551,6 +79596,12 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260109213900 +0800" stop="20260109222400 +0800">
 		<title lang="zh">60_清平乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260109222400 +0800" stop="20260109231400 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260109231400 +0800" stop="20260109235900 +0800">
+		<title lang="zh">61_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79648,6 +79699,9 @@
 	<programme channel="newtv军旅剧场" start="20260109215300 +0800" stop="20260109223800 +0800">
 		<title lang="zh">35_皮b7影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260109223800 +0800" stop="20260109232900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79740,6 +79794,12 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260109213700 +0800" stop="20260109221900 +0800">
 		<title lang="zh">01_余生有涯</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260109221900 +0800" stop="20260109231000 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260109231000 +0800" stop="20260109000000 +0800">
+		<title lang="zh">美国进口FeiGRS磷脂酰丝氨酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79840,6 +79900,9 @@
 	<programme channel="newtv热播精选" start="20260109221400 +0800" stop="20260109230500 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260109230500 +0800" stop="20260109235000 +0800">
+		<title lang="zh">02_淬火丹心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79924,6 +79987,12 @@
 	<programme channel="newtv爱情喜剧" start="20260109214500 +0800" stop="20260109222600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260109222600 +0800" stop="20260109231200 +0800">
+		<title lang="zh">16_长相思 第二季</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260109231200 +0800" stop="20260109000200 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79986,6 +80055,12 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260109205700 +0800" stop="20260109222500 +0800">
 		<title lang="zh">枪神再起</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260109222500 +0800" stop="20260109230500 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260109230500 +0800" stop="20260109003100 +0800">
+		<title lang="zh">少年当自强</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -80079,6 +80154,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260109215000 +0800" stop="20260109222900 +0800">
 		<title lang="zh">四川天门淘一街vs浙江杭州汉资-第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260109222900 +0800" stop="20260109231900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80178,6 +80256,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260109205600 +0800" stop="20260109222600 +0800">
 		<title lang="zh">毒海风云</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260109222600 +0800" stop="20260109231700 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80308,6 +80389,12 @@
 	<programme channel="newtv军事评论" start="20260109221200 +0800" stop="20260109223900 +0800">
 		<title lang="zh">陆战之王黑科技</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260109223900 +0800" stop="20260109230600 +0800">
+		<title lang="zh">俄乌冲突启示录（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260109230600 +0800" stop="20260109233300 +0800">
+		<title lang="zh">俄乌冲突启示录（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80425,6 +80512,15 @@
 	<programme channel="newtv炫舞未来" start="20260109214800 +0800" stop="20260109224400 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260109224400 +0800" stop="20260109225100 +0800">
+		<title lang="zh">广场舞《福从中国来》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260109225800 +0800" stop="20260109231200 +0800">
+		<title lang="zh">广场舞《火辣辣的情歌》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260109231200 +0800" stop="20260109235100 +0800">
+		<title lang="zh">透过文物看中医4（20240102）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80521,6 +80617,9 @@
 	<programme channel="newtv精品综合" start="20260109214500 +0800" stop="20260109222900 +0800">
 		<title lang="zh">16_余生有涯</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260109222900 +0800" stop="20260109231900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80580,6 +80679,12 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260109214900 +0800" stop="20260109223000 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260109223000 +0800" stop="20260109230500 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260109230500 +0800" stop="20260109003600 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -80686,6 +80791,9 @@
 	<programme channel="newtv金牌综艺" start="20260109214900 +0800" stop="20260109223400 +0800">
 		<title lang="zh">29_无间</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260109223400 +0800" stop="20260109232500 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -80730,6 +80838,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20260109210900 +0800" stop="20260109225300 +0800">
 		<title lang="zh">NBA常规赛4月6日：雄鹿VS热火</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260109225300 +0800" stop="20260109002700 +0800">
+		<title lang="zh">NBA季后赛5月30日：步行者VS尼克斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -80853,6 +80964,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260109220700 +0800" stop="20260109225700 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260109225700 +0800" stop="20260109003100 +0800">
+		<title lang="zh">袁天罡之异域妖踪</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
