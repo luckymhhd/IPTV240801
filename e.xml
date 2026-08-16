@@ -17763,6 +17763,12 @@
 	<programme channel="咪咕足球" start="20260816170000 +0800" stop="20260816183000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第12轮 长沙勇胜-江西鲸裕清酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260816183000 +0800" stop="20260816184500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260816184500 +0800" stop="20260816202500 +0800">
+		<title lang="zh">决胜时刻</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -32776,19 +32782,19 @@
 		<title lang="zh">河南午间报道重播版</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816173000 +0800" stop="20260816181500 +0800">
-		<title lang="zh">大象热血剧场穿到对手身上我被迫营业</title>
+		<title lang="zh">大象会客厅+河南午间报道</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816181500 +0800" stop="20260816190700 +0800">
-		<title lang="zh">大象热血剧场穿到对手身上我被迫营业</title>
+		<title lang="zh">文博河南+出彩三农</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816190700 +0800" stop="20260816193000 +0800">
 		<title lang="zh">河南午间报道重播版</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816193000 +0800" stop="20260816201500 +0800">
-		<title lang="zh">大象烽华剧场你好云想容</title>
+		<title lang="zh">大象会客厅+文博河南</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816201500 +0800" stop="20260816210000 +0800">
-		<title lang="zh">大象烽华剧场你好云想容</title>
+		<title lang="zh">文博河南+青听</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816210000 +0800" stop="20260816213000 +0800">
 		<title lang="zh">河南体育报道</title>
@@ -32803,10 +32809,10 @@
 		<title lang="zh">高清河南新闻联播</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816224000 +0800" stop="20260816232500 +0800">
-		<title lang="zh">大象云阙剧场蛇年大吉之福星闹春</title>
+		<title lang="zh">出彩三农+大象会客厅</title>
 	</programme>
 	<programme channel="河南新闻" start="20260816232500 +0800" stop="20260816235900 +0800">
-		<title lang="zh">大象云阙剧场蛇年大吉之福星闹春</title>
+		<title lang="zh">大象会客厅+河南体育报道</title>
 	</programme>
 	<channel id="河南梨园">
 		<display-name lang="zh">河南梨园</display-name>
@@ -59544,6 +59550,9 @@
 	<programme channel="newtv超级综艺" start="20260816174600 +0800" stop="20260816190300 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260816190300 +0800" stop="20260816202000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59714,6 +59723,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260816173300 +0800" stop="20260816181800 +0800">
 		<title lang="zh">16_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260816181800 +0800" stop="20260816190400 +0800">
+		<title lang="zh">17_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60344,6 +60356,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260816173600 +0800" stop="20260816182000 +0800">
 		<title lang="zh">21_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816182000 +0800" stop="20260816185000 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260816185000 +0800" stop="20260816193400 +0800">
+		<title lang="zh">38_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
