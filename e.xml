@@ -50565,6 +50565,9 @@
 	<programme channel="newtv超级综艺" start="20260819020500 +0800" stop="20260819025000 +0800">
 		<title lang="zh">05_梅花红桃</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260819025000 +0800" stop="20260819033600 +0800">
+		<title lang="zh">06_梅花红桃</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50600,6 +50603,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260819022400 +0800" stop="20260819031000 +0800">
 		<title lang="zh">22_很想很想你</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260819031000 +0800" stop="20260819035700 +0800">
+		<title lang="zh">23_很想很想你</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51161,6 +51167,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260819020400 +0800" stop="20260819024900 +0800">
 		<title lang="zh">01_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819024900 +0800" stop="20260819031900 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260819031900 +0800" stop="20260819040400 +0800">
+		<title lang="zh">02_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
