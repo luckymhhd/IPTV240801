@@ -17565,6 +17565,9 @@
 	<programme channel="咪咕足球" start="20260818144500 +0800" stop="20260818154500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260818160000 +0800" stop="20260818165000 +0800">
+		<title lang="zh">一球一城 科隆勒沃库森</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59163,6 +59166,9 @@
 	<programme channel="newtv超级综艺" start="20260818142500 +0800" stop="20260818154800 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260818154800 +0800" stop="20260818173200 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59211,6 +59217,9 @@
 	<programme channel="newtv超级体育" start="20260818150000 +0800" stop="20260818162500 +0800">
 		<title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260818162500 +0800" stop="20260818180000 +0800">
+		<title lang="zh">2026年中国男篮热身赛-佛山站(中国队-新西兰队)(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59243,6 +59252,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260818145000 +0800" stop="20260818163500 +0800">
 		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260818163500 +0800" stop="20260818183800 +0800">
+		<title lang="zh">反抗军</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59309,6 +59321,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260818150400 +0800" stop="20260818155000 +0800">
 		<title lang="zh">24_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260818155000 +0800" stop="20260818163600 +0800">
+		<title lang="zh">22_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59927,6 +59942,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260818150500 +0800" stop="20260818154000 +0800">
 		<title lang="zh">美国Spruce云杉新一代肝立复-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818154000 +0800" stop="20260818162300 +0800">
+		<title lang="zh">31_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260818162300 +0800" stop="20260818170300 +0800">
+		<title lang="zh">VK 13 PRO MAX 5G语音手机套装</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
