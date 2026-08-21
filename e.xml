@@ -49521,11 +49521,17 @@
 	<programme channel="newtv超级综艺" start="20260822021700 +0800" stop="20260822030200 +0800">
 		<title lang="zh">22_梅花红桃</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260822030200 +0800" stop="20260822034700 +0800">
+		<title lang="zh">23_梅花红桃</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260822010600 +0800" stop="20260822023600 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260822023600 +0800" stop="20260822040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49550,6 +49556,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260822021700 +0800" stop="20260822030400 +0800">
 		<title lang="zh">04_骄阳似我</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260822030400 +0800" stop="20260822034900 +0800">
+		<title lang="zh">05_骄阳似我</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50108,6 +50117,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260822014700 +0800" stop="20260822023200 +0800">
 		<title lang="zh">17_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260822023200 +0800" stop="20260822031800 +0800">
+		<title lang="zh">18_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
