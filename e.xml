@@ -12777,6 +12777,9 @@
 	<programme channel="咪咕足球" start="20260824040500 +0800" stop="20260824044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代 04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260824045000 +0800" stop="20260824061500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第4轮 浙江稠州银行-四川蜀道远达</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -42078,6 +42081,9 @@
 	<programme channel="newtv超级电影" start="20260824032400 +0800" stop="20260824044900 +0800">
 		<title lang="zh">美味侦探</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260824044900 +0800" stop="20260824055800 +0800">
+		<title lang="zh">特勤精英之生死救援</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -42098,6 +42104,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260824035900 +0800" stop="20260824044300 +0800">
 		<title lang="zh">43_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260824044300 +0800" stop="20260824052600 +0800">
+		<title lang="zh">01_欢乐颂2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42665,6 +42674,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260824032600 +0800" stop="20260824041200 +0800">
 		<title lang="zh">29_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824041200 +0800" stop="20260824044200 +0800">
+		<title lang="zh">沙琪玛好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260824044200 +0800" stop="20260824052600 +0800">
+		<title lang="zh">30_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
